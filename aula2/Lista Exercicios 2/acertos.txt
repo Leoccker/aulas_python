@@ -1,0 +1,2 @@
+ANA;A-C-A-B-E-F;1;
+PAULO;B-C-E-F-E-A;0;

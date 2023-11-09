@@ -1,0 +1,4 @@
+ID: 100 - Nome: maca - Preço: R$2.00
+ID: 110 - Nome: banana - Preço: R$3.00
+ID: 120 - Nome: pessego - Preço: R$4.00
+Valor Total da Compra: R$9.00

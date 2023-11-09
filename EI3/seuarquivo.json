@@ -1,0 +1,210 @@
+[
+  {
+    "uf": "RO",
+    "cod_uf": 11,
+    "municipios": [
+      {
+        "cod_municipio": 205,
+        "nome_municipio": "Porto Velho",
+        "populacao": 461748
+      }
+    ]
+  },
+  {
+    "uf": "AM",
+    "cod_uf": 13,
+    "municipios": [
+      {
+        "cod_municipio": 29,
+        "nome_municipio": "Alvarães",
+        "populacao": 15916
+      },
+      {
+        "cod_municipio": 409,
+        "nome_municipio": "Barcelos",
+        "populacao": 18399
+      },
+      {
+        "cod_municipio": 607,
+        "nome_municipio": "Benjamin Constant",
+        "populacao": 37436
+      },
+      {
+        "cod_municipio": 805,
+        "nome_municipio": "Borba",
+        "populacao": 33209
+      },
+      {
+        "cod_municipio": 839,
+        "nome_municipio": "Caapiranga",
+        "populacao": 13851
+      },
+      {
+        "cod_municipio": 1605,
+        "nome_municipio": "Fonte Boa",
+        "populacao": 27692
+      },
+      {
+        "cod_municipio": 1654,
+        "nome_municipio": "Guajará",
+        "populacao": 13809
+      },
+      {
+        "cod_municipio": 1704,
+        "nome_municipio": "Humaitá",
+        "populacao": 59504
+      },
+      {
+        "cod_municipio": 1902,
+        "nome_municipio": "Itacoatiara",
+        "populacao": 103826
+      },
+      {
+        "cod_municipio": 1951,
+        "nome_municipio": "Itamarati",
+        "populacao": 10783
+      },
+      {
+        "cod_municipio": 2009,
+        "nome_municipio": "Itapiranga",
+        "populacao": 10183
+      },
+      {
+        "cod_municipio": 2108,
+        "nome_municipio": "Japurá",
+        "populacao": 9281
+      },
+      {
+        "cod_municipio": 2306,
+        "nome_municipio": "Jutaí",
+        "populacao": 25048
+      },
+      {
+        "cod_municipio": 2405,
+        "nome_municipio": "Lábrea",
+        "populacao": 47003
+      },
+      {
+        "cod_municipio": 2504,
+        "nome_municipio": "Manacapuru",
+        "populacao": 102736
+      },
+      {
+        "cod_municipio": 3205,
+        "nome_municipio": "Novo Airão",
+        "populacao": 15819
+      },
+      {
+        "cod_municipio": 3403,
+        "nome_municipio": "Parintins",
+        "populacao": 96251
+      },
+      {
+        "cod_municipio": 3502,
+        "nome_municipio": "Pauini",
+        "populacao": 20351
+      },
+      {
+        "cod_municipio": 3601,
+        "nome_municipio": "Santa Isabel do Rio Negro",
+        "populacao": 14305
+      },
+      {
+        "cod_municipio": 3700,
+        "nome_municipio": "Santo Antônio do Içá",
+        "populacao": 28233
+      },
+      {
+        "cod_municipio": 4062,
+        "nome_municipio": "Tabatinga",
+        "populacao": 66837
+      },
+      {
+        "cod_municipio": 4302,
+        "nome_municipio": "Urucará",
+        "populacao": 18582
+      },
+      {
+        "cod_municipio": 4401,
+        "nome_municipio": "Urucurituba",
+        "populacao": 24017
+      }
+    ]
+  },
+  {
+    "uf": "PA",
+    "cod_uf": 15,
+    "municipios": [
+      {
+        "cod_municipio": 3754,
+        "nome_municipio": "Jacareacanga",
+        "populacao": 24742
+      }
+    ]
+  },
+  {
+    "uf": "MA",
+    "cod_uf": 21,
+    "municipios": [
+      {
+        "cod_municipio": 7506,
+        "nome_municipio": "Paço do Lumiar",
+        "populacao": 145752
+      }
+    ]
+  },
+  {
+    "uf": "PE",
+    "cod_uf": 26,
+    "municipios": [
+      {
+        "cod_municipio": 5509,
+        "nome_municipio": "Ferreiros",
+        "populacao": 15040
+      }
+    ]
+  },
+  {
+    "uf": "BA",
+    "cod_uf": 29,
+    "municipios": [
+      {
+        "cod_municipio": 9208,
+        "nome_municipio": "Coronel João Sá",
+        "populacao": 17000
+      },
+      {
+        "cod_municipio": 12004,
+        "nome_municipio": "Ibiassucê",
+        "populacao": 10426
+      },
+      {
+        "cod_municipio": 27101,
+        "nome_municipio": "Rodelas",
+        "populacao": 10303
+      }
+    ]
+  },
+  {
+    "uf": "PR",
+    "cod_uf": 41,
+    "municipios": [
+      {
+        "cod_municipio": 21901,
+        "nome_municipio": "Ribeirão do Pinhal",
+        "populacao": 13053
+      }
+    ]
+  },
+  {
+    "uf": "GO",
+    "cod_uf": 52,
+    "municipios": [
+      {
+        "cod_municipio": 17609,
+        "nome_municipio": "Planaltina",
+        "populacao": 108846
+      }
+    ]
+  }
+]
