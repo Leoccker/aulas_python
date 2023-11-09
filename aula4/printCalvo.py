@@ -1,0 +1,3 @@
+x = "calvão"
+
+print(x)
